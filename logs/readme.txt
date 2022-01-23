@@ -1,0 +1,1 @@
+Here stored the model weighting got from training process.
