@@ -3,8 +3,6 @@ This is a simple flower recognition task. The dataset downloaded by Kaggle(https
 
 # environment
 
-torch  ==  1.10.0
+torch  ==  1.10.0+cuda10.2
 
-CUDA  ==  11.3
-
-torchvision  ==  0.9.1
+torchvision  ==  0.11.2
